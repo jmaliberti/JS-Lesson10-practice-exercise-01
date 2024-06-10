@@ -7,3 +7,6 @@ const currentlyReading = {
   currentChapter: 8,
   totalChapters: 23
 };
+
+console.log(currentlyReading.title);
+console.log(currentlyReading["pages"]);
