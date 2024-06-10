@@ -10,3 +10,6 @@ const currentlyReading = {
 
 console.log(currentlyReading.title);
 console.log(currentlyReading["pages"]);
+
+currentlyReading.awards = “Hugo Award for Best Novel (2016)”;
+
